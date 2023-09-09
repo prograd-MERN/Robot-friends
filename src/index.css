@@ -2,3 +2,11 @@
 {
   margin: 0;
 }
+.container
+{
+  width:250vh
+}
+body
+{
+  background-color: #237984;
+}
